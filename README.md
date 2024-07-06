@@ -14,3 +14,5 @@ The feature extraction models used are:
 
 + Histogram of Oriented Gradients (HOG)
 + Vision Transformers (ViT)
+
+A full documentation of the methods used is presented in the Anghelina_Ion-Marian_407_doc.pdf file
