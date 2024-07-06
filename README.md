@@ -9,3 +9,8 @@ The clustering techniques used are:
 + K-Means Algorithm
 + K-Medoids Algorithm
 + Agglomerative Clustering Algorithm
+
+The feature extraction models used are:
+
++ Histogram of Oriented Gradients (HOG)
++ Vision Transformers (ViT)
